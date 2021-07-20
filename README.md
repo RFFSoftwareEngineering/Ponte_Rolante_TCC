@@ -4,6 +4,7 @@ This Project was a completion of course work (Mechanical Technician Course, by t
 
 
 i've lost the videos and the written work, that's only the code
+
 (pt:)
 Esse Projeto é parte do trabalho de conclusão de curso (Técnico em Mecânica - IFSP) em 2019, o projeto todo teve baixo custo e usou mecanismos de impressoras descartadas, utilizando-se de uma placa Arduino, com fonte e drivers, controles analógicos, foi contruída e calculada a estrutura de uma ponte rolante em pequena escala, projetada para levantar cargas de 1Kg, controlada através dos joysticks, teve bastante interesse do corpo docente, devido a ser o primeiro tcc do campus usando microcontrolador...
 
